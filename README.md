@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Metehan</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate junior frontend developer from Turkey</h3>
 
 - 📫 How to reach me **kullanici078@gmail.com**
 
