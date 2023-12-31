@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **kullanici078@gmail.com**
 
-![](https://komarev.com/ghpvc/?username=MetehanCantemur-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=MetehanCantemur-github-username&color=dc143c)
 <p align="left">
 </p>
 
